@@ -48,7 +48,7 @@ body {
 .banner {
     text-align: center;
     color: #fff;
-    background: url(/images/luo.png);
+    background: url(../images/luo.png);
     background-size: 100% 100%;
 }
 
@@ -147,6 +147,3 @@ body {
     line-height: 24px;
     margin-bottom: 2px;
 }
-
-
-
